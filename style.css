@@ -18,11 +18,13 @@ main > h1#segundo{
     margin: 0%;
     color: #1A5C38;
     padding: 17px 0px 0px 10px;
+    font-weight: normal;
 }
 
 h2{
     font-family: 'idroid';
     color: #1A5C38;
+    font-weight: normal;
 }
 
 nav{
